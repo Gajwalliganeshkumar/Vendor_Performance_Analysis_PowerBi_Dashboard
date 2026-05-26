@@ -1,3 +1,12 @@
+![My Screenshot](screenshot.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Built a Vendor Performance Analytics Dashboard in Power BI  here's why it matters.
 
 Most recruitment teams manage multiple staffing vendors with zero comparative visibility. Decisions get made on gut feel instead of data.
@@ -20,3 +29,7 @@ Features:
 The business value: TA leaders can now make data-backed decisions on vendor allocation, performance improvement, and contract renewals — in seconds, not days.
 
 Tools: Power BI | DAX | Data Modeling
+
+
+
+
